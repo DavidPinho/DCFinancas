@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/dcfinancas/!svn/ver/11/DCFinancas/src/com/dcfinancas/model/bd
+END
+GerenteBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dcfinancas/!svn/ver/35/DCFinancas/src/com/dcfinancas/model/bd/GerenteBD.java
+END
+ServicoBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dcfinancas/!svn/ver/23/DCFinancas/src/com/dcfinancas/model/bd/ServicoBD.java
+END
+HistoricoAtendimentoBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/dcfinancas/!svn/ver/11/DCFinancas/src/com/dcfinancas/model/bd/HistoricoAtendimentoBD.java
+END
+ProdutoBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dcfinancas/!svn/ver/27/DCFinancas/src/com/dcfinancas/model/bd/ProdutoBD.java
+END
+VendaBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dcfinancas/!svn/ver/34/DCFinancas/src/com/dcfinancas/model/bd/VendaBD.java
+END
+ImagemBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dcfinancas/!svn/ver/17/DCFinancas/src/com/dcfinancas/model/bd/ImagemBD.java
+END
+TelefoneBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dcfinancas/!svn/ver/6/DCFinancas/src/com/dcfinancas/model/bd/TelefoneBD.java
+END
+ClienteBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dcfinancas/!svn/ver/35/DCFinancas/src/com/dcfinancas/model/bd/ClienteBD.java
+END
+BDMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dcfinancas/!svn/ver/25/DCFinancas/src/com/dcfinancas/model/bd/BDMySql.java
+END
+Encomenda_produtoBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dcfinancas/!svn/ver/34/DCFinancas/src/com/dcfinancas/model/bd/Encomenda_produtoBD.java
+END
+Tipo_servicoBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/dcfinancas/!svn/ver/23/DCFinancas/src/com/dcfinancas/model/bd/Tipo_servicoBD.java
+END
+FornecedorBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dcfinancas/!svn/ver/21/DCFinancas/src/com/dcfinancas/model/bd/FornecedorBD.java
+END
+ReservaBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dcfinancas/!svn/ver/11/DCFinancas/src/com/dcfinancas/model/bd/ReservaBD.java
+END
